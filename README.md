@@ -1,0 +1,2 @@
+# AppToFindWordInText
+Based on array 
